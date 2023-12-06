@@ -20,10 +20,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan Terms: The longer term of the loan has an impact on charge-off rates.
+- Interest Rate: Higher interest rates could lead to higher default rates.
+- Employment Length: Individuals with shorter employment histories are riskier borrowers.
+- Debt-to-Income Ratio (DTI): Higher DTI may indicate a higher risk of default.
+- Purpose Loan: Smaller companies can result in charge-off.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
