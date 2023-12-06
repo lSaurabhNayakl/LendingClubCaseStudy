@@ -45,7 +45,7 @@ I want to thank @kanikag07 as she has contributed extensively on this project.
 
 
 ## Contact
-Created by [@kanikag07] & [@lSaurabhNayakl] - feel free to contact us!
+Created by @kanikag07 & @lSaurabhNayakl - feel free to contact us!
 
 
 <!-- Optional -->
