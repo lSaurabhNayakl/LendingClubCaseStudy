@@ -38,7 +38,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-I want to thank [@kanikag07] as she has contributed extensively on this project.
+I want to thank @kanikag07 as she has contributed extensively on this project.
 - This project was inspired by the urge to learn and implement various concepts of EDA(Exploratory Data Analysis).
 <!-- - References if any...
 - This project was based on [this tutorial](https://www.example.com). -->
