@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -37,9 +36,9 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
+<!-- ## Acknowledgements
 I want to thank [@kanikag07](https://github.com/kanikag07) as she has contributed extensively to this project.
-- This project was inspired by the urge to learn and implement various concepts of EDA(Exploratory Data Analysis).
+- This project was inspired by the urge to learn and implement various concepts of EDA(Exploratory Data Analysis). -->
 <!-- - References if any...
 - This project was based on [this tutorial](https://www.example.com). -->
 
